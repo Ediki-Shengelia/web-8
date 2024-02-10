@@ -1,0 +1,87 @@
+.section-box{
+    width: 490px;
+    height: 288px;
+    margin: 134px 130px 130px 165px;
+}
+.section-text {
+    font-size: 56px;
+    line-height: 60px;
+    /*  */
+    font-family: 'Inter';
+}
+.text01{
+    font-size: 18px;
+    line-height: 28px;
+}
+.box{
+    background-color: #000;
+    width: 100px;
+    height: 48px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-text{
+    color: #F3F3F3;
+}
+.text02{
+    color: #000;
+    font-family: 14px;
+    line-height: 20px;
+   width: 236px;
+ margin-left: 20px;
+}
+.div-box{
+    display: flex;
+    margin-top: 40px;
+}
+.image1{
+    width: 490px;
+    height: 428px;
+    border-radius: 12px;
+}
+.main-box{
+    display: flex;
+   align-items: center;
+}
+.section2{
+    background-color: #F3F3F3;
+    width: 100%;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+ display: flex;
+ width: 1140px;
+ justify-content: space-between;
+
+}
+.container-box{
+    width: 360px;
+    height: 128px;
+
+}
+.top-text{
+    display: flex;
+    align-items: center;
+}
+.block{
+    background-color: #000;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+}
+.block-test{
+    font-size: 18px;
+    line-height: 28px;
+    margin-left: 18px;
+    /*  */
+    font-family: 'Inter';
+}
+.class-p{
+    font-size: 16px;
+    line-height: 26px;
+}
